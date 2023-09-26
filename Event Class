@@ -1,0 +1,8 @@
+Event Class:
+Event: boolean (false means free time)
+Start Time: (includes date and time zone)
+End Time: (includes date and time zone)
+Time Duration: (calculated by end time - start time)
+Time of Day: (calculated by where the majority of the event falls on the day)
+->So 11am to 5pm is afternoon
+
